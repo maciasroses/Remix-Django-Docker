@@ -1,0 +1,19 @@
+{
+  "title": "Página principal de eventos",
+  "description": "Esta es la página principal para eventos",
+  "searchBar": {
+    "search": "Buscar...",
+    "filters": {
+      "categories": {
+        "title": "Categorías",
+        "description": "Filtrar por categoría",
+        "mainOption": "Todas las categorías"
+      },
+      "locations": {
+        "title": "Ubicaciones",
+        "description": "Filtrar por ubicación",
+        "mainOption": "Todas las ubicaciones"
+      }
+    }
+  }
+}

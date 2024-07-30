@@ -1,0 +1,19 @@
+{
+  "title": "Events main page",
+  "description": "This is the main page for events",
+  "searchBar": {
+    "search": "Search...",
+    "filters": {
+      "categories": {
+        "title": "Categories",
+        "description": "Filter by category",
+        "mainOption": "All categories"
+      },
+      "locations": {
+        "title": "Locations",
+        "description": "Filter by location",
+        "mainOption": "All locations"
+      }
+    }
+  }
+}
