@@ -1,4 +1,6 @@
 Django>=4.0,<5.0
 djangorestframework>=3.12,<4.0
+dj_database_url>=0.5,<1.0
+psycopg2-binary>=2.9,<3.0
 PyJWT>=2.0,<3.0
 django-cors-headers>=3.7,<4.0
